@@ -1,29 +1,22 @@
-# Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+cy # Experience template
+- company: US Agency for International Development
+  job_title: AAAS Science & Technology Policy Fellow
+  dates: September 2017 - present
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    As an American Association for the Advancement of Science Policy Fellow in the Center for Digital Development of the Global Development Lab, I help to end extreme poverty and promote resilient, democratic societies through better use of science, technology, and innovation. I provide technical oversight for Millennium Challenge Corporation on improving government transparency and civic participation in Kosovo through innovation data challenges focusing on labor and gender and on air quality. I developed an epidemiology model to inform the Guinea Ministry of Health on Ebola and malaria risk. I advise on real-time data use in decision making under uncertainty and changing context. I also advise on the use and impact of emerging and digital technologies such as machine learning, blockchain, big data, open data, and social media in the development context. 
 
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+- company: Headquarters, United States Air Force
+  job_title: Deputy Chief Analyst for Analyses and Assessments
+  dates: September 2014 - August 2016
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    I led a 13-person team of operations research analysts and subject matter experts to help Air Force senior leaders better make programming decisions. I coordinated data collection from key stakeholders, developed network models of risk propagation and machine learning methods for consensus decision making, wrote algorithms in R and Python to evaluate the models, directed external research on model validation, and communicated results to technical audiences and to senior leaders. In addition, I advised committees examining and developing an Air Force data strategy.
     
   # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+- company: Headquarters, Pacific Air Forces
+  job_title: Deputy Director, Analyses, Assessments, & Lessons Learned
+  dates: July 2013 - July 2014
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    I guided the Pacific Air Forces’ analyses, assessments, and lessons learned activities and served as technical adviser to the Commander. I led the crisis action team's analysis cell, directing activities of over twenty technical experts during military exercises, contingency operations, and humanitarian responses. I supervised seven operations research analysts and directed undergraduate students during summer research programs. I served as Chief Analyst for Operation Deepfreeze, Joint Taskforce to provide support to NSF support in Antarctica.
