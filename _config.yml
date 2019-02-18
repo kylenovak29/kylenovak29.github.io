@@ -7,7 +7,7 @@ name: Your Name
 title: Your job title
 email: Your email (optional)
 phone: Your phone number (optional)
-website: https://kylenovak29.github.io
+url: "https://kylenovak29.github.io"
 
 # Social links
 twitter_username: jekyllrb
