@@ -4,21 +4,21 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Kyle A. Novak
-title: Applied Mathematician ▪ Data Scientist ▪ Decision Analyst
+title: applied mathematician ▪ data scientist ▪ decision analyst
 email: Your email (optional)
 phone: Your phone number (optional)
 url: "https://kylenovak29.github.io"
 
 # Social links
 twitter_username: kylenovak29
-github_username:  jekyll
-dribbble_username: jekyll
+github_username:  kylenovak29
 linkedin_username: kylenovak29
 youtube_username: kylenovak29
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: documents/Kyle_Novak_AMS.jpg
+      
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
