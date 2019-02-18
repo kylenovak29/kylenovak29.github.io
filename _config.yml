@@ -21,13 +21,6 @@ about_profile_image: "https://raw.githubusercontent.com/kylenovak29/documents/ma
       
 about_content: | # this will include new lines to allow paragraphs
 #Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.#You can even add paragraphs by using empty lines like this and add anything else markdown supports such as Lists Tables Links Images
-I am an applied mathematician with over twenty-two years of research and analysis experience. I nerd out on data science and data communication. My goal is to make a better world by improving science-based, data-informed decision making.
-
-As an applied mathematician, I have a broad background in developing mathematical and computer modeling in fluid dynamics, quantum mechanics, nanotechnology, superconductors, biology, aeronautics, air base resiliency, and cryptography. I have co-authored several research articles and taught graduate and undergraduate mathematics.
-
-As a data scientist, I have experience in machine learning algorithms, specialized data visualization, statistical analysis, operations research, design of experiment, and network analysis. More importantly, I have experience leading and mentoring analysts to produce timely, impactful results.
-
-As a decision analyst, I have worked at four military headquarters across the world where I helped executive leaders make better, objective decisions. I have experience translating analysis to actionable policy and communicating it to senior leaders. I have conducted lessons learned and process evaluation, led collaborative and integrated product teams, and conducted strategic assessments.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
