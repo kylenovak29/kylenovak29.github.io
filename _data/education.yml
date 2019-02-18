@@ -1,8 +1,17 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: University of Wisconsin-Madison
+  dates: 2003-2006
+  qualification: Doctor of Philosophy (PhD), Mathematics
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    I researched multiscale problems, fluid dynamics, and mathematical physics under my advisor Shi Jin. My dissertation "A Semiclassical Transport Model for Thin Quantum Barriers" was awarded the John A. Nohel Prize for Excellence in Mathematical Research.
+    
+  name: University of Wisconsin-Madison
+  dates: 1993-1995
+  qualification: Master of Arts (MA), Applied Mathematics
+  
+  name: University of Wisconsin-Madison
+  dates: 1989-1993
+  qualification: Bachelor's Degree, Mathematics and Physics
+  
