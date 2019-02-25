@@ -27,8 +27,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   As a decision analyst, I have worked at four military headquarters across the world where I helped executive leaders make better, objective decisions. I have experience translating analysis to actionable policy and communicating it to senior leaders. I have conducted lessons learned and process evaluation, led collaborative and integrated product teams, and conducted strategic assessments.
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+## Projects Section
+## projects_title: Projects #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
@@ -36,12 +36,12 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education #(Use this to override about education section title)
 
-# More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+## More Section
+## more_title: A Little More About Me #(Use this to override about more section title)
+#more_content: | # this will include new lines to allow paragraphs
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
