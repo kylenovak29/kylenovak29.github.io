@@ -34,7 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
 # experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
- educaton_title: Education #(Use this to override about education section title)
+ educaton_title: Educations #(Use this to override about education section title)
   name: University of Wisconsin–Madison
   dates: 2003—2007
   qualification: PhD, Mathematics
