@@ -12,8 +12,5 @@
 - name: Special Functions of Mathematical Physics: A Tourist's Guidebook
   link: https://www.amazon.com/Special-Functions-Mathematical-Physics-Guidebook
   link_image: images/specfunsmall.jpg
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  #quote: >
-  #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
     Strum a guitar. Bang a drum. The sound of one is a combination of sine functions and the other a combination of Bessel functions. While every scientist and engineer knows the sine function, not as many are familiar with Bessel functions or the broader class of special functions that frequently arise in mathematical physics. This book provides a guided tour through the important special functions and develops the mathematical tools and intuition for working with them.
