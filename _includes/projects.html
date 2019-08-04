@@ -10,9 +10,7 @@
         <span class="profile-img" style="background-image: url({{ project.link_image | relative_url }})" />
       </div>
     {%- endif -%}
-    <div class="{{ 'col-xs-12 ' }}{%- if project.link_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
-      {{ site.about_content | strip | markdownify }}
-    </div>     
+  
         
         
     #    <h4>{{ project.name }}</h4>
