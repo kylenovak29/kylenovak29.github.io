@@ -9,11 +9,9 @@
     Mathematical decision making is the use of mathematics to help make better decisions. This article provides a brief introduction to mathematical decision making for the non-mathematician by examining two national security case studies: the U.S. Air Force’s Comprehensive Core Capability Risk Assessment Framework and U.S. Agency for International Development and Dalberg Data Insight’s Outil de Surveillance Épidémiologique Guinéa
 
 # Project template
-- name: A Very Brief Introduction to the Mathematics of National Security Decision Making
-  link: https://share.cocalc.com/share/28b9a804-9486-4dae-90af-2d145dd65e3e/MDM_nontechnical.pdf?viewer=raw
-  link_image: images/buckys2.png
-  #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  #quote: >
-  #  Short overview of the project (optional)
+- name: Special Functions of Mathematical Physics: A Tourists Guidebook
+  link: https://www.amazon.com/Special-Functions-Mathematical-Physics-Guidebook
+  link_image: images/specfunsmall.jpg
   description: | # this will include new lines to allow paragraphs
-    Mathematical decision making is the use of mathematics to help make better decisions. This article provides a brief introduction to mathematical decision making for the non-mathematician by examining two national security case studies: the U.S. Air Force’s Comprehensive Core Capability Risk Assessment Framework and U.S. Agency for International Development and Dalberg Data Insight’s Outil de Surveillance Épidémiologique Guinéa
+    Strum a guitar. Bang a drum. The sound of one is a combination of sine functions and the other a combination of Bessel functions. While every scientist and engineer knows the sine function, not as many are familiar with Bessel functions or the broader class of special functions that frequently arise in mathematical physics. This book provides a guided tour through the important special functions and develops the mathematical tools and intuition for working with them.
+
