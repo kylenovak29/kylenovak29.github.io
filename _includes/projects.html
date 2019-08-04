@@ -2,19 +2,15 @@
   <h3>{{ site.projects_title | default: "Projects" }}</h3>
   {% for project in site.data.projects %}
     <div class="row clearfix project">
-   <div class="row clearfix">
     {%- if project.link_image -%}
       <div class="col-xs-12 col-sm-4 col-md-3 no-print">
         <a class="profile-img" style="background-image: url({{ project.link_image | relative_url }})" href="{{project.link}}" target="_blank"></a>
       </div>
     {%- endif -%}
     </div>
-      <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
-        {%- if project.quote -%}
-          <a  href="{{project.link}}" target="_blank">{{project.name}}</a>
-        {%- endif -%}
+    <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+        <a  href="{{project.link}}" target="_blank">{{project.name}}</a>
         {{ project.description | strip | markdownify }}
-      </div>
     </div>
   {% endfor %}
 </div>
