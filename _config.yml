@@ -28,19 +28,13 @@ about_content: | # this will include new lines to allow paragraphs
   As a decision analyst, I have worked at four military headquarters across the world where I helped executive leaders make better, objective decisions. I have experience translating analysis to actionable policy and communicating it to senior leaders. I have conducted lessons learned and process evaluation, led collaborative and integrated product teams, and conducted strategic assessments.
 
 ## Projects Section
-## projects_title: Projects #(Use this to override about projects section title)
+## projects_title: Publications #(Use this to override about projects section title)
 
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+## Experience Section
+## experience_title: Experience #(Use this to override about experience section title)
 
-# Education Section
- educaton_title: Educations #(Use this to override about education section title)
-  name: University of Wisconsin–Madison
-  dates: 2003—2007
-  qualification: PhD, Mathematics
-  description: | # this will include new lines to allow paragraphs
-    I researched multiscale problems, fluid dynamics, and mathematical physics under my advisor Shi Jin. My dissertation "A Semiclassical Transport Model for Thin Quantum Barriers" was awarded the John A. Nohel Prize for Excellence in Mathematical Research.
-    
+## Education Section
+## education_title: Education #(Use this to override about experience section title)
   
 
 
