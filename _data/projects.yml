@@ -25,7 +25,7 @@
 # Project template
 - name: Numerical Methods for Scientific Computing&#58; The Definitive Manual for Math Geeks
   link: https://books.google.com/books?id=GvXpDQAAQBAJ
-  link_image: images/specfunsmall.jpg
+  link_image: images/coverpage_numerical.jpg
   description: | # this will include new lines to allow paragraphs
    Scientists and engineers often use algorithms without fully knowing what's happening inside them. This blind faith can lead to inefficient solutions and sometimes flat-out wrong ones. This book breaks open the algorithmic black boxes to help you understand how they work and why they can break down. Ideal for first-year graduate students, this book works to build both the intuitive understanding of underlying mathematical theory and useful skills for research. Examples worked out in detail provide a practical guide for using numerical methods in linear algebra, numerical analysis, and partial differential equations.
    
