@@ -11,7 +11,7 @@
     </div>
       <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
         {%- if project.quote -%}
-          <a class="quote"  href="{{project.link}}" target="_blank">{{project.name}}</a>
+          <a  href="{{project.link}}" target="_blank">{{project.name}}</a>
         {%- endif -%}
         {{ project.description | strip | markdownify }}
       </div>
