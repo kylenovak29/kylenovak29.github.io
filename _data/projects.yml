@@ -21,7 +21,7 @@
   link_image: images/lesson01.jpg
   description: | # this will include new lines to allow paragraphs
     This fourteen mini-lecture video series provides the essentials of linear algebra. Lessons include Basic Operations, Row Reduction, Linear Systems, Matrix Inversion, LU Decomposition, Vector Spaces, Matrix Geometry, Nonstandard Bases, Orthogonal Matrices, Projection Matrices, Determinants, Eigenvalues and Eigenvectors, Diagonalization, and Singular Value Decomposition.
-
+ 
 # Project template
 - name: Numerical Methods for Scientific Computing&#58; The Definitive Manual for Math Geeks
   link: https://books.google.com/books?id=GvXpDQAAQBAJ
