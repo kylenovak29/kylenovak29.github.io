@@ -19,7 +19,7 @@ linkedin_username: kylenovak29
 about_profile_image: "https://raw.githubusercontent.com/kylenovak29/documents/master/Kyle_Novak_Cartoon_G.png"
       
 about_content: | # this will include new lines to allow paragraphs
-  WWWWWW I am an applied mathematician with over twenty-two years of research and analysis experience. I nerd out on data science and data communication. My goal is to make a better world by improving science-based, data-informed decision making.
+  I am an applied mathematician with over twenty-two years of research and analysis experience. I nerd out on data science and data communication. My goal is to make a better world by improving science-based, data-informed decision making.
 
   As an applied mathematician, I have a broad background in developing mathematical and computer modeling in fluid dynamics, quantum mechanics, nanotechnology, superconductors, biology, aeronautics, air base resiliency, and cryptography. I have co-authored several research articles and taught graduate and undergraduate mathematics.
 
@@ -28,7 +28,7 @@ about_content: | # this will include new lines to allow paragraphs
   As a decision analyst, I have worked at four military headquarters across the world where I helped executive leaders make better, objective decisions. I have experience translating analysis to actionable policy and communicating it to senior leaders. I have conducted lessons learned and process evaluation, led collaborative and integrated product teams, and conducted strategic assessments.
 
 # Projects Section
-# projects_title: Publications #(Use this to override about projects section title)
+projects_title: Publications #(Use this to override about projects section title)
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
