@@ -27,14 +27,14 @@ about_content: | # this will include new lines to allow paragraphs
 
   As a decision analyst, I have worked at four military headquarters across the world where I helped executive leaders make better, objective decisions. I have experience translating analysis to actionable policy and communicating it to senior leaders. I have conducted lessons learned and process evaluation, led collaborative and integrated product teams, and conducted strategic assessments.
 
-## Projects Section
-## projects_title: Publications #(Use this to override about projects section title)
+# Projects Section
+# projects_title: Publications #(Use this to override about projects section title)
 
-## Experience Section
-## experience_title: Experience #(Use this to override about experience section title)
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
 
-## Education Section
-## education_title: Education #(Use this to override about experience section title)
+# Education Section
+# education_title: Education #(Use this to override about experience section title)
   
 
 
