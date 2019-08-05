@@ -28,9 +28,8 @@
    
 # Project template
 - name: The effects of superconductor-stabilizer interfacial resistance on quenching of a pancake coil made out of coated conductor
-  link: https://www.youtube.com/watch?v=2cuTyMfyzNk&list=PLx-dYnQYo58dAJCf_1w-omF1iGXYj-uGK 
-  link_image: images/coil.jpg
+   link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/Numerical_Methods_for_Scientific_Computing.pdf
+  link_image: images/coverpage_numerical.jpg
   description: | # this will include new lines to allow paragraphs
-  We present the results of numerical analysis of normal zone propagation in a stack of.
-  #We present the results of numerical analysis of normal zone propagation in a stack of YBa<sub>2</sub>Cu<sub>3</sub>O<sub>7−x</sub> coated conductors which imitates a pancake coil. Our main purpose is to determine whether the quench protection quality of such coils can be substantially improved by increased contact resistance between the superconducting film and the stabilizer. We show that with increased contact resistance the speed of normal zone propagation increases, the detection of a normal zone inside the coil becomes possible earlier, when the peak temperature inside the normal zone is lower, and stability margins shrink. Thus, increasing contact resistance may become a viable option for improving the prospects of coated conductors for high T<sub>c</sub> magnets applications.
-  
+    Scientists and engineers often use algorithms without fully knowing what's happening inside them. This blind faith can lead to inefficient solutions and sometimes flat-out wrong ones. This book breaks open the algorithmic black boxes to help you understand how they work and why they can break down. Ideal for first-year graduate students, this book works to build both the intuitive understanding of underlying mathematical theory and useful skills for research. Examples worked out in detail provide a practical guide for using numerical methods in linear algebra, numerical analysis, and partial differential equations.
+   
