@@ -4,7 +4,6 @@
   link: 
   job_title: AAAS Science & Technology Policy Fellow
   dates: September 2017—Present
-  quote: >
   description: | # this will include new lines to allow paragraphs
     As an American Association for the Advancement of Science Policy Fellow in the Center for Digital Development of the Global Development Lab, I help to end extreme poverty and promote resilient, democratic societies through better use of science, technology, and innovation. I provide technical oversight for Millennium Challenge Corporation on improving government transparency and civic participation in Kosovo through innovation data challenges focusing on labor and gender and on air quality. I developed an epidemiology model to inform the Guinea Ministry of Health on Ebola and malaria risk. I advise on real-time data use in decision making under uncertainty and changing context. I also advise on the use and impact of emerging and digital technologies such as machine learning, blockchain, big data, open data, and social media in the development context. 
 
@@ -14,7 +13,6 @@
   link: 
   job_title: Deputy Chief Analyst for Analyses and Assessments
   dates: September 2014—August 2016
-  quote: >
   description: | # this will include new lines to allow paragraphs
     I led a 13-person team of operations research analysts and subject matter experts to help Air Force senior leaders better make programming decisions. I coordinated data collection from key stakeholders, developed network models of risk propagation and machine learning methods for consensus decision making, wrote algorithms in R and Python to evaluate the models, directed external research on model validation, and communicated results to technical audiences and to senior leaders. In addition, I advised committees examining and developing an Air Force data strategy.
     
@@ -24,6 +22,55 @@
   link: 
   job_title: Deputy Director, Analyses, Assessments, & Lessons Learned
   dates: July 2013—July 2014
-  quote: >
   description: | # this will include new lines to allow paragraphs
     I guided the Pacific Air Forces’ analyses, assessments, and lessons learned activities and served as technical adviser to the Commander. I led the crisis action team's analysis cell, directing activities of over twenty technical experts during military exercises, contingency operations, and humanitarian responses. I supervised seven operations research analysts and directed undergraduate students during summer research programs. I served as Chief Analyst for Operation Deepfreeze, Joint Taskforce to provide support to NSF support in Antarctica.
+
+  # Experience template
+- company: Headquarters, 13th Air Force
+  location: Joint Base Pearl Harbor–Hickam, Hawaii
+  link: 
+  job_title: Chief, Analyses & Assessments Division
+  dates: November 2010—July 2013
+  description: | # this will include new lines to allow paragraphs
+    I led a team of operation research analysts to conduct campaign analyses and assessments for the commanders of the 13th Air Force and Pacific Air Forces. I chaired an integrated product team that assessed Air Force capability and real-time threats over Asia and the Pacific. Furthermore, I deployed to Japan to support US relief effort Operation Tomodachi following 9.0 earthquake, tsunami, and radiation event.
+
+
+  # Experience template
+- company: ISAF Regional Command (South)
+  location: Kandahar Airfield, Afghanistan
+  link: 
+  job_title: Deputy Chief, Joint Effects Assessment Cell
+  dates: April 2010—October 2010
+  description: | # this will include new lines to allow paragraphs
+    I guided a multinational operational assessment team, provided technical oversight, and wrote the assessment plan for the NATO-lead mission in Kandahar province. I incorporated measures of governance, development, and security to assess population-centric counter-insurgency effectiveness.
+
+- company: Air Force Institute of Technology
+  location: Wright–Patterson Air Force Base, Ohio
+  dates: July 2006—March 2010
+  job_title: Assistant Professor and Deputy Head, Department of Mathematics and Statistics
+  description: I taught graduate-level courses in applied mathematics, scientific computing, and mathematical physics. I researched methods to efficiently solve problems of quantum mechanics and high-temperature superconductors. I authored several journal articles and presented research at international conferences. I advised masters and PhD students. I directed the designed of online review courses and diagnostic exam for 250 masters students annually. I served as deputy department head from July 2008 to March 2010. 
+
+- company: Air Mobility Warfare Center
+  location: Fort Dix, New Jersey
+  dates: July 2001—July 2003
+  job_title: Chief Scientist
+  description: I conducted statistical analysis to assist test directors design and interpret operational testing of transport and refueling aircraft. I led all analytical investigations for test projects supporting over a billion dollars in air mobility acquisitions annually.
+
+- company: National Security Agency
+  location: Fort Meade, Maryland
+  dates: January 1997—June 1998
+  job_title: Senior Cryptologic Mathematician
+  description: I managed the development of an experimental phased-array antenna for space application, and I evaluated technical proposals in advanced radar research topics.
+
+- company: Air Force Research Laboratory
+  location: Kirtland Air Force Base, New Mexico
+  dates: July 1998—July 2001
+  job_title: Active Sensors Group Leader
+  description: I managed the development of an experimental phased-array antenna for space application, and I evaluated technical proposals in advanced radar research topics.
+
+- company: Air Force Research Laboratory
+  location: Kirtland Air Force Base, New Mexico
+  dates: May 1995—January 1997
+  job_title: Threat Demonstration Project Officer
+  description: I researched, designed, fabricated, and tested an autonomously guided cruise-missile as part of a skunkworks red team to guide national policy on GPS. I developed flight algorithms, modeled aerodynamics, wrote flight simulation software to test navigation and control system, and performed post-mission statistical analysis.
+  
