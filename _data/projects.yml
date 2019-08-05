@@ -5,26 +5,3 @@
   link_image: images/specfunsmall.jpg
   description: | # this will include new lines to allow paragraphs
     Strum a guitar. Bang a drum. The sound of one is a combination of sine functions and the other a combination of Bessel functions. While every scientist and engineer knows the sine function, not as many are familiar with Bessel functions or the broader class of special functions that frequently arise in mathematical physics. This book provides a guided tour through the important special functions and develops the mathematical tools and intuition for working with them.
-
-# Project template
-- name: A Very Brief Exposition on the Mathematics of National Security Decision Making
-  link: https://share.cocalc.com/share/28b9a804-9486-4dae-90af-2d145dd65e3e/MDM_nontechnical.pdf?viewer=raw
-  link_image: images/buckys2.png
-  description: | # this will include new lines to allow paragraphs
-    Mathematical decision making is the use of mathematics to help make better decisions. This article provides a brief introduction to mathematical decision making for the non-mathematician by examining two national security case studies: the U.S. Air Force’s Comprehensive Core Capability Risk Assessment Framework and U.S. Agency for International Development and Dalberg Data Insight’s Outil de Surveillance Épidémiologique Guinéa
-
-# Project template
-- name: Linear Algebra in 100 Minutes
-  link: https://www.youtube.com/watch?v=2cuTyMfyzNk&list=PLx-dYnQYo58dAJCf_1w-omF1iGXYj-uGK
-  link_image: images/lesson01.jpg
-  description: | # this will include new lines to allow paragraphs
-    This fourteen mini-lecture video series provides the essentials of linear algebra. Lessons include Basic Operations, Row Reduction, Linear Systems, Matrix Inversion, LU Decomposition, Vector Spaces, Matrix Geometry, Nonstandard Bases, Orthogonal Matrices, Projection Matrices, Determinants, Eigenvalues and Eigenvectors, Diagonalization, and Singular Value Decomposition.
- 
-# Project template
-- name: Numerical Methods for Scientific Computing&#58; The Definitive Manual for Math Geeks
-  link: https://www.youtube.com/watch?v=2cuTyMfyzNk&list=PLx-dYnQYo58dAJCf_1w-omF1iGXYj-uGK
-  #https://github.com/kylenovak29/documents/blob/master/Numerical_Methods_for_Scientific_Computing.pdf
-  link_image: images/coverpage_numerical.jpg
-  description: | # this will include new lines to allow paragraphs
-  Scientists and engineers often use algorithms without fully knowing what's happening inside them. This blind faith can lead to inefficient solutions and sometimes flat-out wrong ones. This book breaks open the algorithmic black boxes to help you understand how they work and why they can break down. Ideal for first-year graduate students, this book works to build both the intuitive understanding of underlying mathematical theory and useful skills for research. Examples worked out in detail provide a practical guide for using numerical methods in linear algebra, numerical analysis, and partial differential equations.
-   
