@@ -1,6 +1,6 @@
 # Site
 # repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-favicon: images/foxicon.png
+favicon: "images/foxicon_small.png"
 
 # Personal info
 name: Kyle A. Novak
@@ -16,7 +16,7 @@ linkedin_username: kylenovak29
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: "https://raw.githubusercontent.com/kylenovak29/documents/master/Kyle_Novak_Cartoon_G.png"
+about_profile_image: "images/Kyle_Novak_Cartoon_G.png"
       
 about_content: | # this will include new lines to allow paragraphs
   I am an applied mathematician with over twenty-two years of research and analysis experience. I nerd out on data science and data communication. My goal is to make a better world by improving science-based, data-informed decision making.
