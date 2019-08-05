@@ -39,3 +39,4 @@
   link_image: images/p2_montecarlo.png
   description: | # this will include new lines to allow paragraphs
   We present a time-dependent semiclassical transport model for coherent pure-state scattering with quantum barriers. The model is based on a complex-valued Liouville equation, with interface conditions at quantum barriers computed from the steady-state Schrodinger equation. By retaining the phase information at the barrier, this coherent model adequately describes quantum scattering and interference at quantum barriers, with a computational cost comparable to that of classical mechanics. We construct both Eulerian and Lagrangian numerical methods for this model, and validate it using several numerical examples, including multiple quantum barriers.
+ 
