@@ -28,7 +28,7 @@
    
 # Project template
 - name: N
-  link:https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/Numerical_Methods_for_Scientific_Computing.pdf
+  link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/Numerical_Methods_for_Scientific_Computing.pdf
   link_image: images/coverpage_numerical.jpg
   description: | # this will include new lines to allow paragraphs
   We present the results of numerical analysis of normal zone propagation in a stack of.
