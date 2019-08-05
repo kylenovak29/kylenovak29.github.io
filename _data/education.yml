@@ -1,13 +1,9 @@
 # Education Template
 - name: University of Wisconsin–Madison
-  dates: 2003—2006
-  qualification: PhD, Mathematics
+  dates1: 2003—2006
+  qualification1: PhD, Mathematics
+  dates2: 1993—1995
+  qualification2: MA, Applied Mathematics
+  dates3: 1989—1993
+  qualification3: BS, Mathematics and Physics
   description: I researched multiscale problems, fluid dynamics, and mathematical physics under my advisor Shi Jin. My dissertation ["A Semiclassical Transport Model for Thin Quantum Barriers"](https://apps.dtic.mil/dtic/tr/fulltext/u2/a450562.pdf) was awarded the John A. Nohel Prize for Excellence in Mathematical Research.
-
-- name: University of Wisconsin–Madison
-  dates: 1993—1995
-  qualification: MA, Applied Mathematics
-
-- name: University of Wisconsin–Madison
-  dates: 1989—1993
-  qualification: BS, Mathematics and Physics
