@@ -1,6 +1,6 @@
 # Project template
 - name: Special Functions of Mathematical Physics&#58; A Tourist's Guidebook
-  link: https://github.com/kylenovak29/documents/blob/master/Special_Functions_of_Mathematical_Physics.pdf
+  link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/Special_Functions_of_Mathematical_Physics.pdf
   link_image: images/specfunsmall.jpg
   description: | # this will include new lines to allow paragraphs
     Strum a guitar. Bang a drum. The sound of one is a combination of sine functions and the other a combination of Bessel functions. While every scientist and engineer knows the sine function, not as many are familiar with Bessel functions or the broader class of special functions that frequently arise in mathematical physics. This book provides a guided tour through the important special functions and develops the mathematical tools and intuition for working with them.
@@ -11,5 +11,11 @@
   link_image: images/buckys2.png
   description: | # this will include new lines to allow paragraphs
     Mathematical decision making is the use of mathematics to help make better decisions. This article provides a brief introduction to mathematical decision making for the non-mathematician by examining two national security case studies: the U.S. Air Force’s Comprehensive Core Capability Risk Assessment Framework and U.S. Agency for International Development and Dalberg Data Insight’s Outil de Surveillance Épidémiologique Guinéa
-    
- 
+     
+# Project template
+- name: Linear Algebra in 100 Minutes
+  link: https://www.youtube.com/watch?v=2cuTyMfyzNk&list=PLx-dYnQYo58dAJCf_1w-omF1iGXYj-uGK
+  link_image: images/lesson01.jpg
+  description: | # this will include new lines to allow paragraphs
+    This fourteen mini-lecture video series provides the essentials of linear algebra. Lessons include Basic Operations, Row Reduction, Linear Systems, Matrix Inversion, LU Decomposition, Vector Spaces, Matrix Geometry, Nonstandard Bases, Orthogonal Matrices, Projection Matrices, Determinants, Eigenvalues and Eigenvectors, Diagonalization, and Singular Value Decomposition.
+
