@@ -29,6 +29,6 @@
 # Project template
 - name: The effects of superconductor-stabilizer interfacial resistance on quenching of a pancake coil made out of coated conductor
   link: https://www.youtube.com/watch?v=2cuTyMfyzNk&list=PLx-dYnQYo58dAJCf_1w-omF1iGXYj-uGK
-  link_image: images/lesson01.jpg
+  link_image: images/coil.jpg
   description: | # this will include new lines to allow paragraphs
     This fourteen mini-lecture video series provides the essentials of linear algebra. Lessons include Basic Operations, Row Reduction, Linear Systems, Matrix Inversion, LU Decomposition, Vector Spaces, Matrix Geometry, Nonstandard Bases, Orthogonal Matrices, Projection Matrices, Determinants, Eigenvalues and Eigenvectors, Diagonalization, and Singular Value Decomposition.
