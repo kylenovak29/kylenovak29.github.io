@@ -20,7 +20,7 @@
   description:  Scientists and engineers often use algorithms without fully knowing what's happening inside them. This blind faith can lead to inefficient solutions and sometimes flat-out wrong ones. This book breaks open the algorithmic black boxes to help you understand how they work and why they can break down. Ideal for first-year graduate students, this book works to build both the intuitive understanding of underlying mathematical theory and useful skills for research. Examples worked out in detail provide a practical guide for using numerical methods in linear algebra, numerical analysis, and partial differential equations.
 
 - name: Hierarchical and Networked Assessment Models
-  link: https://github.com/kylenovak29/documents/blob/master/MORSv3.5.pdf
+  link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/MORSv3.5.pdf
   link_image: images/morss.png
   description:  Military organizational structure lends itself to a hierarchical assessment paradigm. But because military effects are often crossfunctional and networked, such a paradigm may be inadequate to model secondary dependencies, especially in the context of forecasting risk. For smaller organizations, one means of incorporating secondary effects is through an integrated product team of subject matter experts. This approach can be difficult for large organizations and the very nature of subject matter expert input is prone to equity biases, assessment gaming and "soda straw" awareness. Alternatively, a hybrid hierarchical-network assessment methodology attempts to illuminate cross-functional dependencies within an assessment hierarchy. We examine different approaches and best practices for hierarchical and networked assessments.
 
