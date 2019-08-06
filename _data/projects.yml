@@ -11,7 +11,8 @@
 - name: A Very Brief Exposition on the Mathematics of National Security Decision Making
   link: https://share.cocalc.com/share/28b9a804-9486-4dae-90af-2d145dd65e3e/MDM_nontechnical.pdf?viewer=raw
   link_image: images/buckys2.png
-  description: Mathematical decision making is the use of mathematics to help make better decisions. This article provides a brief introduction to mathematical decision making for the non-mathematician by examining two national security case studies: the U.S. Air Force’s Comprehensive Core Capability Risk Assessment Framework and U.S. Agency for International Development and Dalberg Data Insight’s Outil de Surveillance Épidémiologique Guinéa
+  description: |
+    Mathematical decision making is the use of mathematics to help make better decisions. This article provides a brief introduction to mathematical decision making for the non-mathematician by examining two national security case studies: the U.S. Air Force’s Comprehensive Core Capability Risk Assessment Framework and U.S. Agency for International Development and Dalberg Data Insight’s Outil de Surveillance Épidémiologique Guinéa
   
 - name: Numerical Methods for Scientific Computing&#58; The Definitive Manual for Math Geeks
   link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/Numerical_Methods_for_Scientific_Computing.pdf
