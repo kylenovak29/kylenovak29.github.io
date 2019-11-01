@@ -1,22 +1,22 @@
-- name: Thinking Critically about Decision Models
-  link: https://docs.google.com/presentation/d/11oipMr3EdACPHCEMfMAc7Uxehd4qDBcJX-vwpudkGm8/present
-  link_image: images/feedbackloop.png
-  description: Mathematical decision models are used extensively. But, as statistician George E. P. Box once quipped, all models are wrong and some models are useful. While no model can be perfect, a worthwhile goal is to make decision support models less wrong and more useful. This disussion of a forthcoming guide highlights basic frameworks for thinking critically about mathematical decision-making models. While the guide highlights specific decision models, the  best practices apply to a much wider range of tools. 
+- #name: Thinking Critically about Decision Models
+  #link: https://docs.google.com/presentation/d/11oipMr3EdACPHCEMfMAc7Uxehd4qDBcJX-vwpudkGm8/present
+  #link_image: images/feedbackloop.png
+  #description: Mathematical decision models are used extensively. But, as statistician George E. P. Box once quipped, all models are wrong and some models are useful. While no model can be perfect, a worthwhile goal is to make decision support models less wrong and more useful. This disussion of a forthcoming guide highlights basic frameworks for thinking critically about mathematical decision-making models. While the guide highlights specific decision models, the  best practices apply to a much wider range of tools. 
   
 - name: Special Functions of Mathematical Physics&#58; A Tourist's Guidebook
   link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/Special_Functions_of_Mathematical_Physics.pdf
   link_image: images/specfunsmall.jpg
   description: Strum a guitar. Bang a drum. The sound of one is a combination of sine functions and the other a combination of Bessel functions. While every scientist and engineer knows the sine function, not as many are familiar with Bessel functions or the broader class of special functions that frequently arise in mathematical physics. This book provides a guided tour through the important special functions and develops the mathematical tools and intuition for working with them. With Laura Fox.
 
-- name: Kosovo Air Quality&#58; A First Look at the Data
-  link: https://docs.google.com/presentation/d/1mOpjxL5vK2-dk465c36nwNR0wmcQT68xwzXHrw2pfnI/present
-  link_image: images/KosovoAir.png
-  description: On June 18—19, 2019, Millenium Foundation Kosovo convened a workshop to bring together participants from Kosovo civil society and government to develop problem statement and build technical capacity before the launch of the DigData Open Data Challenge. This presentation provides an initial analysis to better understand obstacles to available air quality data use.
+- #name: Kosovo Air Quality&#58; A First Look at the Data
+  #link: https://docs.google.com/presentation/d/1mOpjxL5vK2-dk465c36nwNR0wmcQT68xwzXHrw2pfnI/present
+  #link_image: images/KosovoAir.png
+  #description: On June 18—19, 2019, Millenium Foundation Kosovo convened a workshop to bring together participants from Kosovo civil society and government to develop problem statement and build technical capacity before the launch of the DigData Open Data Challenge. This presentation provides an initial analysis to better understand obstacles to available air quality data use.
 
-- name: Digi Know? Innovating Decision Making with Real-time Data
-  link: https://docs.google.com/presentation/d/1JOGSZPcez1Dd6CgINxmCHrU8bCkBNJS6t8XZX4XzZsE/present
-  link_image: images/umbrella.png
-  description: This presentation discusses the use and risks of real-time data in development decision making. It gives an overview of real-time data, highlights the crowd-sourcing platform Premise as a case study, and provides a framework for thinking critically about the use of real-time data.  With Chris Watson of Premise Data.
+- #name: Digi Know? Innovating Decision Making with Real-time Data
+  #link: https://docs.google.com/presentation/d/1JOGSZPcez1Dd6CgINxmCHrU8bCkBNJS6t8XZX4XzZsE/present
+  #link_image: images/umbrella.png
+  #description: This presentation discusses the use and risks of real-time data in development decision making. It gives an overview of real-time data, highlights the crowd-sourcing platform Premise as a case study, and provides a framework for thinking critically about the use of real-time data.  With Chris Watson of Premise Data.
 
 - name: A Very Brief Exposition on the Mathematics of National Security Decision Making
   link: https://share.cocalc.com/share/28b9a804-9486-4dae-90af-2d145dd65e3e/MDM_nontechnical.pdf?viewer=raw
@@ -29,10 +29,10 @@
   link_image: images/coverpage_numerical.jpg
   description:  Scientists and engineers often use algorithms without fully knowing what's happening inside them. This blind faith can lead to inefficient solutions and sometimes flat-out wrong ones. This book breaks open the algorithmic black boxes to help you understand how they work and why they can break down. Ideal for first-year graduate students, this book works to build both the intuitive understanding of underlying mathematical theory and useful skills for research. Examples worked out in detail provide a practical guide for using numerical methods in linear algebra, numerical analysis, and partial differential equations.
 
-- name: Hierarchical and Networked Assessment Models
-  link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/MORSv3.5.pdf
-  link_image: images/morss.png
-  description:  Military organizational structure lends itself to hierarchical assessment. But because military effects are often complex and achieving those effects requires crossfunctional coordination, such a paradigm may be inadequate to model secondary dependencies. Smaller organizations can use an integrated team of subject matter experts for assessment. But this approach can be difficult for large organizations and the very nature of subject matter expert input is prone to equity biases, assessment gaming and "soda straw" awareness. A hybrid hierarchical-network assessment methodology provides an alternative approach to illuminates cross-functional dependencies within an assessment hierarchy.
+- #name: Hierarchical and Networked Assessment Models
+  #link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/MORSv3.5.pdf
+  #link_image: images/morss.png
+  #description:  Military organizational structure lends itself to hierarchical assessment. But because military effects are often complex and achieving those effects requires crossfunctional coordination, such a paradigm may be inadequate to model secondary dependencies. Smaller organizations can use an integrated team of subject matter experts for assessment. But this approach can be difficult for large organizations and the very nature of subject matter expert input is prone to equity biases, assessment gaming and "soda straw" awareness. A hybrid hierarchical-network assessment methodology provides an alternative approach to illuminates cross-functional dependencies within an assessment hierarchy.
 
 - name: Linear Algebra in 100 Minutes
   link: https://www.youtube.com/watch?v=2cuTyMfyzNk&list=PLx-dYnQYo58dAJCf_1w-omF1iGXYj-uGK
