@@ -1,7 +1,7 @@
 - name: How to be Less Wrong and More Useful&#58;  Thinking Critically about Decision Models
   link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/Thinking%20Critically%20about%20Decision%20Models.pdf
   #link_image: images/feedbackloop.png
-  link_image: typewriter_square.jpg
+  link_image: images/typewriter_square.jpg
   description: Mathematical models are basic tools of quantitative decision making. But they are frequently misunderstood and misinterpreted, because many who must make decisions about them don't always know the right questions to ask. While this guide is born out of my experience working with development practitioners and the challenges that they face, this guide provides a broad framework for thinking critically about decision models. 
   
 - name: Special Functions of Mathematical Physics&#58; A Tourist's Guidebook
