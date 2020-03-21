@@ -1,7 +1,8 @@
-- #name: Thinking Critically about Decision Models
-  #link: https://docs.google.com/presentation/d/11oipMr3EdACPHCEMfMAc7Uxehd4qDBcJX-vwpudkGm8/present
+- name: How to be Less Wrong and More Useful&#58;  Thinking Critically about Decision Models
+  link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/Thinking%20Critically%20about%20Decision%20Models.pdf
   #link_image: images/feedbackloop.png
-  #description: Mathematical decision models are used extensively. But, as statistician George E. P. Box once quipped, all models are wrong and some models are useful. While no model can be perfect, a worthwhile goal is to make decision support models less wrong and more useful. This disussion of a forthcoming guide highlights basic frameworks for thinking critically about mathematical decision-making models. While the guide highlights specific decision models, the  best practices apply to a much wider range of tools. 
+  link_image: typewriter_square.jpg
+  description: Mathematical models are basic tools of quantitative decision making. But they are frequently misunderstood and misinterpreted, because many who must make decisions about them don't always know the right questions to ask. While this guide is born out of my experience working with development practitioners and the challenges that they face, this guide provides a broad framework for thinking critically about decision models. 
   
 - name: Special Functions of Mathematical Physics&#58; A Tourist's Guidebook
   link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/Special_Functions_of_Mathematical_Physics.pdf
