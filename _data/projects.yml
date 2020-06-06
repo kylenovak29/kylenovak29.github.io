@@ -13,11 +13,6 @@
   link_image: images/KosovoAir.png
   description: On June 18—19, 2019, Millenium Foundation Kosovo convened a workshop to bring together participants from Kosovo civil society and government to develop problem statement and build technical capacity before the launch of the DigData Open Data Challenge. This presentation provides an initial analysis to better understand obstacles to available air quality data use.
 
-- name: A Very Brief Exposition on the Mathematics of National Security Decision Making
-  link: https://share.cocalc.com/share/28b9a804-9486-4dae-90af-2d145dd65e3e/MDM_nontechnical.pdf?viewer=raw
-  link_image: images/buckys2.png
-  description: Mathematical decision making is the use of mathematics to help make better decisions. This article provides a brief introduction to mathematical decision making for the non-mathematician by examining two national security case studies: the U.S. Air Force's Comprehensive Core Capability Risk Assessment Framework and U.S. Agency for International Development and Dalberg Data Insight’s Outil de Surveillance Epidemiologique Guinea.
-  
 - name: Numerical Methods for Scientific Computing&#58; The Definitive Manual for Math Geeks
   link: https://nbviewer.jupyter.org/github/kylenovak29/documents/blob/master/Numerical_Methods_for_Scientific_Computing.pdf
   link_image: images/coverpage_numerical.jpg
